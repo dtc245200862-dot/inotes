@@ -1,0 +1,4 @@
+1|Họp giao ban đầu tuần (File)|Báo cáo tiến độ hoàn thành các chức năng iNotes và kế hoạch tuần mới|2|2026-10-08 10:37:27.832
+2|Ôn tập Design Pattern Servlet (File)|Học sâu về Strategy Pattern, Factory Pattern, MVC và JDBC DAO|3|2026-10-08 10:37:27.832
+3|Mua sắm cuối tuần (File)|Mua sữa, cà phê, bánh mỳ và đồ dùng gia đình|1|2026-10-08 10:37:27.832
+4|Ghi chú thử nghiệm File|Nội dung ghi chú được ghi trực tiếp ra tệp tin|1|2026-10-08 10:37:27.847
